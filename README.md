@@ -67,7 +67,7 @@ The model outputs a **segmented mask** highlighting concealed weapons.
 
 | Original Image | Ground Truth | Model Prediction |
 |---------------|-------------|------------------|
-| ![Original](sample_image.jpg) | ![GT](sample_mask.jpg) | ![Prediction](sample_prediction.jpg) |
+| ![Original](![image](https://github.com/user-attachments/assets/ab49204a-5c6e-42e5-8937-12ac4416705b)) | ![GT](sample_mask.jpg) | ![Prediction](sample_prediction.jpg) |
 
 > **Note:** You can add real sample images from your results.
 
