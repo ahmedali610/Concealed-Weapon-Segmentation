@@ -67,9 +67,7 @@ The model outputs a **segmented mask** highlighting concealed weapons.
 
 | Original Image | Ground Truth | Model Prediction |
 |---------------|-------------|------------------|
-| ![Original](file:///C:/Users/s/Downloads/download.png) | ![GT](sample_mask.jpg) | ![Prediction](sample_prediction.jpg) |
-
-> **Note:** You can add real sample images from your results.
+| ![Orig!![download](https://github.com/user-attachments/assets/19685b42-8547-4e58-b080-d3f8075c0ce1)[download]() | ![GT](sample_mask.jpg) | ![Prediction](sample_prediction.jpg) |
 
 ---
 
@@ -102,11 +100,6 @@ This model can be used in various **security and surveillance** applications:
 Feel free to **fork** this repository and contribute!  
 - Create a pull request for improvements  
 - Report issues or suggest enhancements  
-
----
-
-## **📜 License**
-This project is licensed under the **MIT License**.
 
 ---
 
